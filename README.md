@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcelinoski
-- 👀 I’m interested in big data
-- 🌱 I’m currently learning weblogic
+- 👀 I’m interested in anything
+- 🌱 I’m currently learning whatever comes to mind
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me by email marce_jesus@hotmail.com
 
